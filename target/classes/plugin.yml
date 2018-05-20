@@ -1,0 +1,7 @@
+main: com.github.gobotan.TNT
+name: TNTdelete
+version: 1.0.0
+commands:
+  goboreload:
+    description: 設定ファイルをリロードします。
+    permission: gobo.reload
